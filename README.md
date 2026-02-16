@@ -1,28 +1,57 @@
-<h1 align="center">Hi 👋, I'm Uttam Gupta</h1>
-<h3 align="center">Enthusiastic and motivated software developer with a strong foundation in programming fundamentals and a desire to learn and grow in the field.</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=uttamgupta2712&label=Profile%20views&color=0e75b6&style=flat" alt="uttamgupta2712" />
+  
+  <h1>Hi 👋, I'm Uttam Gupta</h1>
+  
+  <h3>Full Stack Engineer @ <a href="https://www.zenmonk.tech/">Zenmonk Software</a></h3>
+  
+  <p>
+    Building scalable systems, microservices, and dynamic user interfaces.<br>
+    Passionate about <b>Rust</b>, <b>Distributed Systems</b>, and <b>AI Engineering</b>.
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uttamgupta2712&label=Profile%20views&color=0e75b6&style=flat" alt="uttamgupta2712" /> </p>
+  <p>
+    <a href="https://uttamgupta2712.github.io/cv/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/uttam-gupta-a185a8239/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:uttamgupta2712@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uttamgupta2712" alt="uttamgupta2712" /></a> </p>
+---
 
-- 🌱 I’m currently improving myself in **Typescript**
+### 🛠️ Tech Stack
 
-- 💬 Passionately improving myself in **MERN, Figma, Microservice Architecture**
+<div align="center">
 
-- 📫 Easily reach me **uttamgupta2712@gmail.com**
+| Core | Backend & Systems | Frontend | Tools & DevOps |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=rust,ts,go,python" /> | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,rabbitmq,postgres,redis,mongodb" /> | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,figma" /> |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/uttam gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uttam gupta" height="30" width="40" /></a>
-<a href="https://fb.com/uttam gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uttam gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/uttamgupta2712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uttamgupta2712" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/uttam-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uttam-gupta" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/uttamgupta2712/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="uttamgupta2712/profile" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttamgupta2712&show_icons=true&locale=en&layout=compact" alt="uttamgupta2712" /></p>
+### 🚀 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uttamgupta2712&" alt="uttamgupta2712" /></p>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[CodeMind](https://github.com/UTTAMGUPTA2712/codemind)** | Offline AI coding assistant. Chat with your codebase using local LLMs. Privacy-first & secure. | `Tauri` `Next.js` `Ollama` |
+| **[Local Lens](https://github.com/UTTAMGUPTA2712/Local-Lens)** | Privacy-first AI tool for organizing photos using ResNet50 for object detection and OCR. | `Rust` `egui` `ONNX` |
+| **[Redis Lite](https://github.com/UTTAMGUPTA2712/redis_lite)** | A lightweight, multi-threaded implementation of the Redis protocol handling concurrent TCP connections. | `Rust` `Tokio` `TCP/IP` |
+| **[Axon](https://github.com/UTTAMGUPTA2712/axon)** | AI-powered Chrome extension acting as a vision layer for the web for visual Q&A. | `GPT-4o` `Chrome API` `React` |
+| **[Load Balancer](https://github.com/UTTAMGUPTA2712/load-balancer)** | High-performance modular load balancer supporting Round Robin, Weighted RR, and IP Hash. | `Rust` `Hyper` |
+
+---
+
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uttamgupta2712&theme=tokyonight&hide_border=true&background=0D1117" alt="Uttam's Streak" />
+</div>
