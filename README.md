@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    <a href="https://uttamgupta2712.github.io/cv/" target="_blank">
+    <a href="https://uttamgupta2712.is-a.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/uttam-gupta-a185a8239/" target="_blank">
