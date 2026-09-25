@@ -41,10 +41,11 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[CodeMind](https://github.com/UTTAMGUPTA2712/codemind)** | Offline AI coding assistant. Chat with your codebase using local LLMs. Privacy-first & secure. | `Tauri` `Next.js` `Ollama` |
-| **[Local Lens](https://github.com/UTTAMGUPTA2712/Local-Lens)** | Privacy-first AI tool for organizing photos using ResNet50 for object detection and OCR. | `Rust` `egui` `ONNX` |
+| **[Ulearn](https://ulearn-it.vercel.app/)** | Interactive System Design Simulator. Watch each mechanism run, tweak it, break it on purpose. | `Next.js` `System Design` `Programming` |
+| **[CodeMind](https://codemind-web.vercel.app/)** | Offline AI coding assistant. Chat with your codebase using local LLMs. Privacy-first & secure. | `Tauri` `Next.js` `Ollama` |
+| **[Local Lens](https://uttamgupta2712.github.io/Local-Lens/)** | Privacy-first AI tool for organizing photos using ResNet50 for object detection and OCR. | `Rust` `egui` `ONNX` |
 | **[Redis Lite](https://github.com/UTTAMGUPTA2712/redis_lite)** | A lightweight, multi-threaded implementation of the Redis protocol handling concurrent TCP connections. | `Rust` `Tokio` `TCP/IP` |
-| **[Axon](https://github.com/UTTAMGUPTA2712/axon)** | AI-powered Chrome extension acting as a vision layer for the web for visual Q&A. | `GPT-4o` `Chrome API` `React` |
+| **[Axon](https://uttamgupta2712.github.io/axon/)** | AI-powered Chrome extension acting as a vision layer for the web for visual Q&A. | `GPT-4o` `Chrome API` `React` |
 | **[Load Balancer](https://github.com/UTTAMGUPTA2712/load-balancer)** | High-performance modular load balancer supporting Round Robin, Weighted RR, and IP Hash. | `Rust` `Hyper` |
 
 ---
